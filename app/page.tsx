@@ -36,7 +36,7 @@ export default function Home() {
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-indigo-500"></span>
               </span>
               <span className="text-[10px] font-bold text-indigo-700 uppercase tracking-wider">
-                Technical Assessment
+                How to Use
               </span>
             </div>
             {/* <div className="text-[11px] font-mono text-slate-400 bg-slate-50 px-2 py-1 rounded border border-slate-100">
@@ -45,7 +45,7 @@ export default function Home() {
           </div>
 
           <h1 className="text-3xl font-black text-slate-900 tracking-tight mb-2">
-            Hello, Team <span className="text-indigo-600">MAKYO</span>!
+            Hello <span className="text-indigo-600">Thare</span>!
           </h1>
           <p className="text-slate-500 text-sm md:text-base leading-relaxed max-w-md">
             I&apos;m{" "}

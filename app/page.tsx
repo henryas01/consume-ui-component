@@ -45,7 +45,7 @@ export default function Home() {
           </div>
 
           <h1 className="text-3xl font-black text-slate-900 tracking-tight mb-2">
-            Hello <span className="text-indigo-600">Thare</span>!
+            Hello <span className="text-indigo-600">There</span>!
           </h1>
           <p className="text-slate-500 text-sm md:text-base leading-relaxed max-w-md">
             I&apos;m{" "}
